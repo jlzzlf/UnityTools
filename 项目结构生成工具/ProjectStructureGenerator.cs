@@ -333,11 +333,10 @@ $@"namespace {fullNamespace}
                 "Content/Models",
 
                 // Misc
-                "AddressablesData",
                 "Plugins",
                 "ThirdParty",
                 "Gizmos",
-                "Settings"
+                "Utilities"
             };
 
             template.asmdefs = new List<AsmdefDefinition>
